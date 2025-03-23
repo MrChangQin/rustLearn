@@ -1,0 +1,11 @@
+D:\Desktop\rustLearn\WechatRealFriends-1.0.3\target\debug\deps\libwidestring-2ea2547a2a09f23f.rmeta: C:\Users\MEI\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\lib.rs C:\Users\MEI\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\platform\mod.rs C:\Users\MEI\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\platform\windows.rs C:\Users\MEI\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\ucstr.rs C:\Users\MEI\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\ucstring.rs C:\Users\MEI\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\ustr.rs C:\Users\MEI\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\ustring.rs
+
+D:\Desktop\rustLearn\WechatRealFriends-1.0.3\target\debug\deps\widestring-2ea2547a2a09f23f.d: C:\Users\MEI\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\lib.rs C:\Users\MEI\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\platform\mod.rs C:\Users\MEI\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\platform\windows.rs C:\Users\MEI\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\ucstr.rs C:\Users\MEI\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\ucstring.rs C:\Users\MEI\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\ustr.rs C:\Users\MEI\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\ustring.rs
+
+C:\Users\MEI\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\lib.rs:
+C:\Users\MEI\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\platform\mod.rs:
+C:\Users\MEI\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\platform\windows.rs:
+C:\Users\MEI\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\ucstr.rs:
+C:\Users\MEI\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\ucstring.rs:
+C:\Users\MEI\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\ustr.rs:
+C:\Users\MEI\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\ustring.rs:
